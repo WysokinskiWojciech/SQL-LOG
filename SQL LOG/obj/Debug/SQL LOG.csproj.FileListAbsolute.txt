@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\bin\Debug\SQL LOG.exe.config
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\bin\Debug\SQL LOG.exe
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\bin\Debug\SQL LOG.pdb
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\Debug\SQL LOG.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\Debug\SQL_LOG.Form1.resources
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\Debug\SQL_LOG.Properties.Resources.resources
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\Debug\SQL LOG.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\Debug\SQL LOG.exe
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\Debug\SQL LOG.pdb

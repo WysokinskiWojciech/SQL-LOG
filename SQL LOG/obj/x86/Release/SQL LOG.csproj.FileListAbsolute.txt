@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\bin\x86\Release\SQL LOG.exe.config
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\bin\x86\Release\SQL LOG.exe
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\bin\x86\Release\SQL LOG.pdb
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\x86\Release\SQL_LOG.Form1.resources
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\x86\Release\SQL_LOG.Properties.Resources.resources
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.exe
+C:\Users\Dell\source\repos\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.pdb
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Release\SQL_LOG.Form1.resources
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Release\SQL_LOG.Properties.Resources.resources
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.exe
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Release\SQL LOG.pdb

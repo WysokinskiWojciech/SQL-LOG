@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\bin\x86\Debug\SQL LOG.exe.config
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\bin\x86\Debug\SQL LOG.exe
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\bin\x86\Debug\SQL LOG.pdb
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Debug\SQL_LOG.Form1.resources
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Debug\SQL_LOG.Properties.Resources.resources
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Debug\SQL LOG.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Debug\SQL LOG.exe
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Debug\SQL LOG.pdb
+C:\Users\Dell\Documents\PLC\SQL LOG\SQL LOG\obj\x86\Debug\SQL LOG.csprojAssemblyReference.cache
